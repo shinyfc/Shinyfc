@@ -47,40 +47,32 @@
 <div align="left">
 
 **Project By Tools**
-<div align="left">
+
+<h3>Project By Tools</h3>
+
+<!-- Flex container for horizontal layout -->
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <!-- Python -->
-  <a href="https://github.com/search?q=user:Shinyfc:python-project" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <span style="font-size:16px; color:black; margin-left:10px;">Python Project</span>
+  <a href="https://github.com/topics/python?q=user:Shinyfc" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" alt="Python" style="margin-right: 8px;" />
+    <span style="font-size: 16px; color: #0366d6;">Python</span>
   </a>
-  <br><br>
 
-  <!-- Power Bi -->
-  <a href="https://github.com/search?q=Power+Bi+topic%3APower+user%3AShinyfc" target="_blank" style="text-decoration:none;">
-  Power BI Projects
-</a>
-
- <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="30" height="30" alt="tool" style="padding-right:5px;" />
-    <span style="font-size:16px; color:black; margin-left:10px;">Power BI Project</span>
+  <!-- Power BI -->
+  <a href="https://github.com/topics/powerbi?q=user:Shinyfc" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="25" height="25" alt="Power BI" style="margin-right: 8px;" />
+    <span style="font-size: 16px; color: #0366d6;">Power BI</span>
   </a>
-  <br><br>
 
   <!-- Excel -->
-  <a href="https://github.com/search?q=user:Shinyfc:excel-project" target="_blank" style="text-decoration:none;">
-    <img src="https://github.com/user-attachments/assets/1e3f8eb8-0a56-4d20-990f-de02643a3070" width="40" height="40" alt="Excel" />
-    <span style="font-size:16px; color:black; margin-left:10px;">Excel Project</span>
+  <a href="https://github.com/topics/excel?q=user:Shinyfc" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/1e3f8eb8-0a56-4d20-990f-de02643a3070" width="25" height="25" alt="Excel" style="margin-right: 8px;" />
+    <span style="font-size: 16px; color: #0366d6;">Excel</span>
   </a>
-  <br><br>
 
   <!-- SQL -->
-  <a href="https://github.com/search?q=user:Shinyfc:/sql-project" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-    <span style="font-size:16px; color:black; margin-left:10px;">SQL Project</span>
-  </a>
-
-</div>
-
+  <a href="https://github.com/topics/sql?q=user:Shinyfc" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
 
 
 
@@ -89,15 +81,15 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/emmanuel-sualla-0909151a9/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn" style="padding-right:12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="20" alt="LinkedIn" style="padding-right:12px;" />
   </a>
   
   <a href="https://twitter.com/ESualla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" style="padding-right:12px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="20" alt="Twitter" style="padding-right:12px;" />
   </a>
   
   <a href="https://facebook.com/emmanuel.sualla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="20" alt="Facebook" />
   </a>
 </div>
 
