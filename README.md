@@ -56,8 +56,8 @@
   </a>
   <br><br>
 
-  <!-- power bi -->
-  <a href="https://github.com/Shinyfc/powerbi-project" target="_blank" style="text-decoration:none;">
+  <!-- Power Bi -->
+  <a href="https://github.com/Shinyfc/Power Bi-project" target="_blank" style="text-decoration:none;">
  <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="30" height="30" alt="tool" style="padding-right:5px;" />
     <span style="font-size:16px; color:black; margin-left:10px;">Power BI Project</span>
   </a>
