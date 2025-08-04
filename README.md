@@ -47,32 +47,40 @@
 <div align="left">
 
 **Project By Tools**
+<div align="left">
+
+  <!-- Python -->
+  <a href="https://github.com/YOUR_USERNAME/python-project" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <span style="font-size:16px; color:black; margin-left:10px;">Python Project</span>
+  </a>
+  <br><br>
+
+  <!-- Power BI -->
+  <a href="https://github.com/YOUR_USERNAME/powerbi-project" target="_blank" style="text-decoration:none;">
+ <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="30" height="30" alt="tool" style="padding-right:5px;" />
+    <span style="font-size:16px; color:black; margin-left:10px;">Power BI Project</span>
+  </a>
+  <br><br>
 
   <!-- Excel -->
-  <a href="https://github.com/YOUR_USERNAME/excel-cleaning" target="_blank" style="display:inline-block; text-align:center; margin-right:20px;">
+  <a href="https://github.com/YOUR_USERNAME/excel-project" target="_blank" style="text-decoration:none;">
     <img src="https://github.com/user-attachments/assets/1e3f8eb8-0a56-4d20-990f-de02643a3070" width="40" height="40" alt="Excel" />
-    <div style="font-size:14px;">Excel</div>
+    <span style="font-size:16px; color:black; margin-left:10px;">Excel Project</span>
   </a>
+  <br><br>
 
   <!-- SQL -->
-  <a href="https://github.com/YOUR_USERNAME/sql-queries" target="_blank" style="display:inline-block; text-align:center; margin-right:20px;">
+  <a href="https://github.com/YOUR_USERNAME/sql-project" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-    <div style="font-size:14px;">SQL</div>
-  </a>
-
-  <!-- Python Projects -->
-  <a href="https://github.com/YOUR_USERNAME/python-viz" target="_blank" style="display:inline-block; text-align:center; margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <div style="font-size:14px;">Python</div>
-  </a>
-
-  <!-- PowerBi -->
-  <a href="https://github.com/YOUR_USERNAME/spss-survey-analysis" target="_blank" style="display:inline-block; text-align:center;">
-    <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="40" height="40" alt="SPSS" />
-    <div style="font-size:14px;">SPSS</div>
+    <span style="font-size:16px; color:black; margin-left:10px;">SQL Project</span>
   </a>
 
 </div>
+
+
+
+
 
 ### 📬 Contact Me
 
