@@ -57,21 +57,21 @@
   <br><br>
 
   <!-- power bi -->
-  <a href="https://github.com/Shinyfc2/powerbi-project" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/Shinyfc/powerbi-project" target="_blank" style="text-decoration:none;">
  <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="30" height="30" alt="tool" style="padding-right:5px;" />
     <span style="font-size:16px; color:black; margin-left:10px;">Power BI Project</span>
   </a>
   <br><br>
 
   <!-- Excel -->
-  <a href="https://github.com/YOUR_USERNAME/excel-project" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/Shinyfc/excel-project" target="_blank" style="text-decoration:none;">
     <img src="https://github.com/user-attachments/assets/1e3f8eb8-0a56-4d20-990f-de02643a3070" width="40" height="40" alt="Excel" />
     <span style="font-size:16px; color:black; margin-left:10px;">Excel Project</span>
   </a>
   <br><br>
 
   <!-- SQL -->
-  <a href="https://github.com/YOUR_USERNAME/sql-project" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/Shinyfc/sql-project" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
     <span style="font-size:16px; color:black; margin-left:10px;">SQL Project</span>
   </a>
