@@ -74,17 +74,19 @@
 
 </div>
 
-
 ### 📬 Contact Me
 
 <div align="left">
-  <a href="https://linkedin.com/emmanuel-sualla-0909151a9/
+  <a href="https://linkedin.com/in/emmanuel-sualla-0909151a9/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn" style="padding-right:12px;" />
   </a>
-  <a href="https://twitter.com/ESualla>
+  
+  <a href="https://twitter.com/ESualla" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" style="padding-right:12px;" />
   </a>
-  <a href="https://facebook.com/emmanuel.sualla>
+  
+  <a href="https://facebook.com/emmanuel.sualla" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
 </div>
+
