@@ -50,7 +50,7 @@
 <div align="left">
 
   <!-- Python -->
-  <a href="https://github.com/YOUR_USERNAME/python-project" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/Shinyfc/python-project" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
     <span style="font-size:16px; color:black; margin-left:10px;">Python Project</span>
   </a>
