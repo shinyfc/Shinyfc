@@ -78,13 +78,13 @@
 ### 📬 Contact Me
 
 <div align="left">
-  <a href="https://linkedin.com/inemmanuel-sualla-0909151a9//" target="_blank">
+  <a href="https://linkedin.com/emmanuel-sualla-0909151a9/
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn" style="padding-right:12px;" />
   </a>
-  <a href="https://twitter.com/YOURUSERNAME" target="_blank">
+  <a href="https://twitter.com/ESualla>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" style="padding-right:12px;" />
   </a>
-  <a href="https://facebook.com/YOURUSERNAME" target="_blank">
+  <a href="https://facebook.com/emmanuel.sualla>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
 </div>
