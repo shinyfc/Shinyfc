@@ -1,37 +1,90 @@
-<p align="left">Hello i'm Sualla</p>
+<h1 align="left">Hello, I'm Sualla 👋</h1>
 
-###
+---
 
-<p align="left">👋 Welcome! I’m a Data Analyst & Visualization Engineer with a foundation in Civil Engineering and a deep passion for turning raw data into powerful business tools.<br><br>My strength lies in connecting the dots—transforming disorganized datasets into clean, clear, and actionable insights that help teams grow smarter and faster.<br><br>💼 Here’s what I can help you with:<br><br>🔧 Data Cleaning & Structuring – I organize messy data into usable formats that are reliable and analysis-ready.<br><br>📊 Insight Discovery – I analyze patterns, trends, and outliers to deliver insights that drive smarter decisions.<br><br>📈 Dashboard Development – I design interactive reports and dashboards in Power BI and Excel that simplify complex information.<br><br>🗂️ Database Handling – I write efficient SQL queries to extract, filter, and summarize data from large datasets.<br><br>🧰 Tools & Technologies: Excel | Power BI | SQL | SPSS | Python | Civil/Engineering Data<br><br>Whether you're overwhelmed by data chaos or just need to see your numbers in a clearer light—I’m here to help you make sense of it all.</p>
+### 👨‍💻 About Me
 
-###
+<p align="left">
+  I’m a <strong>Data Analyst & Visualization Engineer</strong> with a background in Civil Engineering and a deep passion for turning raw data into powerful business tools.
+  <br><br>
+  I specialize in transforming disorganized datasets into clean, actionable insights that help teams work smarter and make data-driven decisions.
+</p>
 
-<p align="left">Tech Tools</p>
+---
 
-###
+### 💼 What I Do Best
+
+- 🔧 **Data Cleaning & Structuring**  
+  I organize messy data into reliable, analysis-ready formats.
+
+- 📊 **Insight Discovery**  
+  I uncover trends, patterns, and opportunities that drive smarter decisions.
+
+- 📈 **Dashboard Development**  
+  I build interactive reports in **Power BI** and **Excel** to simplify complex data.
+
+- 🗂️ **Database Handling**  
+  I write optimized **SQL** queries to extract and analyze data from various sources.
+
+- 🧰 **Tools & Technologies**:  
+  Excel | Power BI | SQL | SPSS | Python | Jupyter | Civil/Engineering Data
+
+---
+
+### 🧪 Tech Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="30" height="30" alt="tool" style="padding-right:5px;" />
+  <img src="https://github.com/user-attachments/assets/1e3f8eb8-0a56-4d20-990f-de02643a3070" width="30" height="30" alt="tool" style="padding-right:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" style="padding-right:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" style="padding-right:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" style="padding-right:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="padding-right:5px;" />
 </div>
 
-###
-
-<p align="left">contact me</p>
-
-###
+---
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+
+**Project By Tools**
+
+  <!-- Excel -->
+  <a href="https://github.com/YOUR_USERNAME/excel-cleaning" target="_blank" style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://github.com/user-attachments/assets/1e3f8eb8-0a56-4d20-990f-de02643a3070" width="40" height="40" alt="Excel" />
+    <div style="font-size:14px;">Excel</div>
+  </a>
+
+  <!-- SQL -->
+  <a href="https://github.com/YOUR_USERNAME/sql-queries" target="_blank" style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+    <div style="font-size:14px;">SQL</div>
+  </a>
+
+  <!-- Python Projects -->
+  <a href="https://github.com/YOUR_USERNAME/python-viz" target="_blank" style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <div style="font-size:14px;">Python</div>
+  </a>
+
+  <!-- PowerBi -->
+  <a href="https://github.com/YOUR_USERNAME/spss-survey-analysis" target="_blank" style="display:inline-block; text-align:center;">
+    <img src="https://github.com/user-attachments/assets/37794428-a557-44d9-ab04-05cf9449434b" width="40" height="40" alt="SPSS" />
+    <div style="font-size:14px;">SPSS</div>
+  </a>
+
 </div>
 
-###
+
+### 📬 Contact Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="LinkedIn" style="padding-right:12px;" />
+  </a>
+  <a href="https://twitter.com/YOURUSERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" style="padding-right:12px;" />
+  </a>
+  <a href="https://facebook.com/YOURUSERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
+  </a>
+</div>
